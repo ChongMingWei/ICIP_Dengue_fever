@@ -4,6 +4,8 @@
 由xml2csv.ipynb產生的csv file
 ## train.csv
 tmp.csv中drop掉含0之rows之後，所產生之訓練資料的csv file
+## json2csv.ipynb
+把結果所得到的所有json檔案合併成csv file
 ## csv2tfrecord.py
 將csv檔集中轉為TFrecord檔，作為tensorflow之輸入
 
